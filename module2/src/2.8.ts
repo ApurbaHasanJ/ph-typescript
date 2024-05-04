@@ -1,6 +1,5 @@
 {
     //  basic promise
-
     //    simulate
 
     type Todo = {
